@@ -1,5 +1,5 @@
 {
-  "name": "ocode-backend",
+  "name": "backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -20,7 +20,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "566c7509-30f9-4d6c-b690-00b90601ca49"
+    "uuid": "fe5053a7-eecd-4975-8eba-075e98f9c13f"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
