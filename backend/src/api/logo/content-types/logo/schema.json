@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "logos",
+  "info": {
+    "singularName": "logo",
+    "pluralName": "logos",
+    "displayName": "logo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "nav1": {
+      "type": "string"
+    },
+    "nav2": {
+      "type": "string"
+    },
+    "nav3": {
+      "type": "string"
+    },
+    "nav4": {
+      "type": "string"
+    },
+    "nav5": {
+      "type": "string"
+    },
+    "login": {
+      "type": "string"
+    },
+    "getstart": {
+      "type": "string"
+    }
+  }
+}
