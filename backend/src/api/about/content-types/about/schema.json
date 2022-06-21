@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "about"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "para": {
+      "type": "text"
+    },
+    "t1": {
+      "type": "string"
+    },
+    "t2": {
+      "type": "string"
+    },
+    "t3": {
+      "type": "string"
+    },
+    "t4": {
+      "type": "string"
+    },
+    "t5": {
+      "type": "string"
+    },
+    "t6": {
+      "type": "string"
+    }
+  }
+}
