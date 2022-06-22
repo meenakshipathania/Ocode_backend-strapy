@@ -4,7 +4,8 @@
   "info": {
     "singularName": "about",
     "pluralName": "abouts",
-    "displayName": "about"
+    "displayName": "about",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -33,6 +34,18 @@
       "type": "string"
     },
     "t6": {
+      "type": "string"
+    },
+    "heading1": {
+      "type": "string"
+    },
+    "para1": {
+      "type": "text"
+    },
+    "heading2": {
+      "type": "string"
+    },
+    "heading3": {
       "type": "string"
     }
   }

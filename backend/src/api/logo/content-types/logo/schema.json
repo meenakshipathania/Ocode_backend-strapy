@@ -43,6 +43,18 @@
     },
     "getstart": {
       "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "phone1": {
+      "type": "string"
     }
   }
 }
