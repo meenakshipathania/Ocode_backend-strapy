@@ -55,6 +55,15 @@
     },
     "phone1": {
       "type": "string"
+    },
+    "carheading": {
+      "type": "string"
+    },
+    "carpara": {
+      "type": "text"
+    },
+    "t10": {
+      "type": "string"
     }
   }
 }

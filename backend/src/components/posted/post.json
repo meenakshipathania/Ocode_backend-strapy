@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_posted_posts",
+  "info": {
+    "displayName": "post",
+    "icon": "arrow-alt-circle-down",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "position": {
+      "type": "string"
+    },
+    "para": {
+      "type": "text"
+    },
+    "abilities": {
+      "type": "text"
+    },
+    "role": {
+      "type": "string"
+    },
+    "industries": {
+      "type": "string"
+    },
+    "functional": {
+      "type": "string"
+    },
+    "employement": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "education": {
+      "type": "text"
+    }
+  }
+}
