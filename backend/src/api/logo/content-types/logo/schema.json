@@ -64,6 +64,44 @@
     },
     "t10": {
       "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "t1": {
+      "type": "string"
+    },
+    "t2": {
+      "type": "string"
+    },
+    "t3": {
+      "type": "string"
+    },
+    "t4": {
+      "type": "string"
+    },
+    "t5": {
+      "type": "string"
+    },
+    "t6": {
+      "type": "string"
+    },
+    "t7": {
+      "type": "string"
+    },
+    "t8": {
+      "type": "string"
+    },
+    "t9": {
+      "type": "string"
     }
   }
 }

@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "applies",
+  "info": {
+    "singularName": "apply",
+    "pluralName": "applies",
+    "displayName": "apply"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "qualification": {
+      "type": "string"
+    },
+    "post": {
+      "type": "string"
+    },
+    "experience": {
+      "type": "string"
+    },
+    "file": {
+      "type": "string"
+    }
+  }
+}
