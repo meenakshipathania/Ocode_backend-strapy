@@ -119,14 +119,15 @@
       "type": "text"
     },
     "image5": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "heading4": {
       "type": "string"
@@ -135,6 +136,30 @@
       "type": "text"
     },
     "sutext": {
+      "type": "string"
+    },
+    "q1": {
+      "type": "string"
+    },
+    "q2": {
+      "type": "string"
+    },
+    "q3": {
+      "type": "string"
+    },
+    "q4": {
+      "type": "string"
+    },
+    "a1": {
+      "type": "string"
+    },
+    "a2": {
+      "type": "string"
+    },
+    "a3": {
+      "type": "string"
+    },
+    "a4": {
       "type": "string"
     }
   }

@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "teams",
+  "collectionName": "testiblogs",
   "info": {
-    "singularName": "team",
-    "pluralName": "teams",
-    "displayName": "Team",
+    "singularName": "testiblog",
+    "pluralName": "testiblogs",
+    "displayName": "testiblog",
     "description": ""
   },
   "options": {
@@ -26,8 +26,16 @@
     "name": {
       "type": "string"
     },
-    "desi": {
+    "para": {
       "type": "text"
+    },
+    "nested": {
+      "type": "component",
+      "repeatable": true,
+      "component": "posted.nested"
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }

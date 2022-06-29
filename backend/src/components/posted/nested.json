@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_posted_nesteds",
+  "info": {
+    "displayName": "nested"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "para1": {
+      "type": "text"
+    },
+    "head": {
+      "type": "string"
+    },
+    "para2": {
+      "type": "text"
+    },
+    "para3": {
+      "type": "text"
+    },
+    "para4": {
+      "type": "text"
+    },
+    "para5": {
+      "type": "text"
+    },
+    "para6": {
+      "type": "text"
+    }
+  }
+}
